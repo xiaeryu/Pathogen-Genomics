@@ -1,6 +1,6 @@
 Pathogen Genomics
 =================
- In this repository are my scripts for pathogen genomics research.
+ In this repository are my scripts written for pathogen genomics research.
 
 * **Spopredopt.java**  
   A scipt for paremeter optimization of _SpoPred_.  
